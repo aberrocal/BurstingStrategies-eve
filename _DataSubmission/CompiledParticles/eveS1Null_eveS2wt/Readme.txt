@@ -1,1 +1,6 @@
-
+This folder must contain the following files:
+CompiledParticles_eveS1Null_eveS2wt_1
+CompiledParticles_eveS1Null_eveS2wt_2
+CompiledParticles_eveS1Null_eveS2wt_3
+CompiledParticles_eveS1Null_eveS2wt_4
+CompiledParticles_eveS1Null_eveS2wt_5
