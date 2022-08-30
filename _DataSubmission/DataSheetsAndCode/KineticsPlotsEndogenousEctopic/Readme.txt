@@ -1,2 +1,0 @@
-This code takes the compiled results from February 2021, by Nicholas Lammers, and plots kon, koff, and r bursting kinetics
-binned by mean fluorescence and sorted by endogenous/ectopic. This code plots all kinetics in a single graph (Figure 5).
