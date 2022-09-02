@@ -1,0 +1,1 @@
+This folder contains the illustrator files, the final versions of the plots, and its png versions.
